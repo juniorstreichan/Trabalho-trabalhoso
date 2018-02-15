@@ -1,13 +1,38 @@
-
 body{
-
 	margin-top: 50px;
 }
-
-
+.nav-burger, .btn-pedido{
+	background-color: #254161;
+    border-color: #254161;
+}
+.btn-pedido:hover{
+	background-color: #254161;
+    border-color: #fff;
+    border-radius: 5px;
+}
+.btn-pedido{
+	margin: 20px;
+}
+.section-bk{
+	background-color: #d72229;
+}
+.container-footer{
+	background-color: #2d2d2d;
+	height: 300px;
+}
+.menu-footer ul li{
+	display: block;
+	margin: 5px;
+}
+.menu-footer ul li a{
+	color: #fff;
+	text-transform: uppercase;
+}
+.menu-footer{
+	margin-top: 50px;
+}
 @media only screen and (max-width: 600px) {
 	body{
-
 		margin-top: 100px;
 	}
 

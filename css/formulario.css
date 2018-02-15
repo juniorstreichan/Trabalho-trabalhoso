@@ -1,0 +1,15 @@
+.title-usuario, label, input, th, .btn, option{
+	font-family: 'Poppins-Light';
+}
+th, label{
+	font-size: 14px;
+}
+.img-logo{
+	margin: 20px 0 20px 0;
+}
+.panel-default>.panel-heading{
+	background-color: #fff;
+}
+.col-botoes{
+	margin-top: 20px;
+}
